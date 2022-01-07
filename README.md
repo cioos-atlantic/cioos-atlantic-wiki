@@ -1,2 +1,3 @@
 # cioos-atlantic-wiki
-The CIOOS Atlantic wiki
+CIOOS Atlantic
+[CIOOS Atlantic Wiki](https://github.com/cioos-atlantic/cioos-atlantic-wiki/wiki)
